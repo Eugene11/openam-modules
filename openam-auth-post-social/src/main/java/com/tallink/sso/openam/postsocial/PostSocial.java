@@ -42,9 +42,6 @@ import org.json.JSONException;
 
 import static org.forgerock.openam.utils.CollectionUtils.asSet;
 
-// TODO
-// [WARNING] /C:/Users/alexe/_work/projects/open-am-components/openam-auth-post-social/src/main/java/com/tallink/sso/openam/postsocial/PostSocial.java: C:\Users\alexe\_work\projects\open-am-components\openam-auth-post-social\src\main\java\com\tallink\sso\openam\postsocial\PostSocial.java uses unchecked or unsafe operations.
-// [WARNING] /C:/Users/alexe/_work/projects/open-am-components/openam-auth-post-social/src/main/java/com/tallink/sso/openam/postsocial/PostSocial.java: Recompile with -Xlint:unchecked for details.
 
 public class PostSocial extends AMLoginModule {
 
